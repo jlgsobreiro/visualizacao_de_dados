@@ -1,3 +1,5 @@
-matplotlib
-folium
-numpy
+matplotlib~=3.8.3
+folium~=0.16.0
+numpy~=1.26.4
+
+pandas~=2.2.1

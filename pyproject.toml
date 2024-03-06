@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "visualizacao-de-dados"
+version = "0.1.0"
+description = ""
+authors = ["JLGS <jlgsobreiro@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.1"
+matplotlib = "^3.8.3"
+numpy = "^1.26.4"
+folium = "^0.16.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
